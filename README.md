@@ -1,6 +1,6 @@
-# PyQt5 Parola Oluşturucu
+# OpenCv ile Karakalem Efekti
 
-PyQt5 ile Parola Oluşturucu.
+Python'da OpenCv ile karakalem efekti.
 
 ## Gerekli kütüphaneler
 [OpenCv](https://pypi.org/project/opencv-python/)
