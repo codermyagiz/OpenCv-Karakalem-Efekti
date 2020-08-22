@@ -16,3 +16,5 @@ def rgb2karakelem(renkli_resim_path):
 	cv2.destroyAllWindows()
 
 rgb2karakelem("resim.jpg") #Karakalem efekti yapmak istediğiniz fotoğrafın dizini.
+
+#OpenCv'de yaptığım pratiklerden bir tanesi.
